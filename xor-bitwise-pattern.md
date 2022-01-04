@@ -1,3 +1,2 @@
 ## Exclusive-OR Operator (^)
-
-# Header 1
+* Bullet list
