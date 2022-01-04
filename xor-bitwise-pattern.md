@@ -1,1 +1,3 @@
-Exclusive-OR Operator (^)
+% Exclusive-OR Operator (^)
+
+# Header 1
